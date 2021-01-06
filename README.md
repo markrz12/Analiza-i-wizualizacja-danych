@@ -1,1 +1,1 @@
-# Analiza-i-wizualizacja-danych
+# Analiza i wizualizacja danych - projekt
