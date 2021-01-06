@@ -3,5 +3,5 @@ import numpy as np
 import pandas as pd
 import os
 
-plik = 
+plik = '../input/movies.csv'
 data = pd.read_csv(plik)
