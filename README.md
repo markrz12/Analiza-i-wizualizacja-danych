@@ -1,5 +1,5 @@
 # Analiza i wizualizacja danych - projekt
-Projekt na zaliczenie przedmiotu **Analiza i wizualizacja danych ilościowych**. 
+Projekt na zaliczenie przedmiotu **Analiza i wizualizacja danych**. 
 
 Raport zawiera analizę i wizualizację danych dotyczących branży filmowej obejmujących trzy dekady (1986-2016). 
 
