@@ -1,8 +1,7 @@
-import pakiet as pt
 import numpy as np
 import pandas as pd
-import os
+import matplotlib.pyplot as plt
+import scipy.stats as st
 
 #wczytanie danych
-plik = '../input/movies.csv'
-data = pd.read_csv(plik)
+data = pd.read_csv('movies.csv')
